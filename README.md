@@ -59,7 +59,7 @@ Software de escritorio en Python con herramientas de edición básicas y guardad
 
 
 ### 📫 Cómo contactarme  
-💼 **LinkedIn:** [linkedin.com/in/liz-gómez](https://linkedin.com/in/liz-gómez)  
+💼 **LinkedIn:** www.linkedin.com/in/liz-gómez-3ab001251  
 📍 **Ubicación:** Itapúa, Paraguay  
 
 ---
