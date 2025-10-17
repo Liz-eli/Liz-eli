@@ -32,7 +32,7 @@ Pruebas unitarias · Pruebas de integración · Validación de APIs
 ### 🎓 Formación
 🎓 Estudiante de **Ingeniería Informática**  
 📍 *Universidad Católica “Nuestra Señora de la Asunción” – Campus Itapúa*  
-💡 Enfocada en proyectos que integran **inteligencia artificial, sistemas web y turismo sostenible.**
+
 
 ---
 
