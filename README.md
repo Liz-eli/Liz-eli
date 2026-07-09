@@ -1,16 +1,11 @@
 <h1 align="center">👋 ¡Hola! Soy Liz</h1>
-<h3 align="center">💻 Desarrolladora Full Stack con enfoque en Backend e Inteligencia Artificial — desde Paraguay 🇵🇾</h3>
+<h3 align="center">💻 Desarrolladora Full Stack  — desde Paraguay 🇵🇾</h3>
 
 ---
 
 ### ✨ Sobre mí
-Soy una desarrolladora apasionada por la tecnología y la innovación, actualmente cursando la carrera de  **Ingeniería Informática**.  
+Soy una desarrolladora apasionada por la tecnología y la innovación**.  
 Tengo experiencia en **Python, Node.js, React, Django y MongoDB**, y me interesa especialmente el uso de **IA y algoritmos de optimización** para resolver problemas reales.
-
-🧭 Actualmente estoy desarrollando mi tesis:
-> **“Sistema inteligente de recomendación turística según tiempo y presupuesto”**  
-> Una plataforma que utiliza **algoritmos de IA (Knapsack y TSP)** para generar tours personalizados en el distrito de **Nueva Alborada, Itapúa**.
-
 ---
 
 ### 🧠 Habilidades técnicas
@@ -52,6 +47,7 @@ Software de escritorio en Python con herramientas de edición básicas y guardad
 ---
 
 ### 🌱 Actualmente aprendiendo
+- Inteligencia de negocios y Big Data 📊
 - PHP y Laravel para desarrollo backend 🐘 
 - Redes neuronales y visión por computadora 🤖   
 - Optimización de rutas y recomendadores turísticos 📊  
